@@ -1,3 +1,4 @@
+// Package memoryrag provides storage and retrieval for RAG-based LLM memory.
 package memoryrag
 
 import (
